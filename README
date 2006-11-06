@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1705
+
+This syntax file supports the REDCODE '88 or '94 (with or without Pspace extensions) languages as defined in the ICWS'94 Draft (extended).
+
+     http://www.koth.org/info/pmars-redcode-94.txt
+
+The language was first popularized in a March 1984 Scientific American article, Core War Guidelines, by A. K. Dewdney and D. G. Jones.
+
+This implementation can be configured to flag elements of Redcode '94 when used in coding Redcode '88 warriors. It also highlights line-continuations (responsible for a well-known problem with the program Marcia Trionfale 1.3).
+
+
